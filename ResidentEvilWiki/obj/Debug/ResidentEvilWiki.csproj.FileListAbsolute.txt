@@ -1,0 +1,14 @@
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.csproj.AssemblyReference.cache
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.Form1.resources
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.Properties.Resources.resources
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.csproj.GenerateResource.cache
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.csproj.CoreCompileInputs.cache
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\ResidentEvilWiki.exe.config
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\ResidentEvilWiki.exe
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\ResidentEvilWiki.pdb
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\MaterialSkin.dll
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.exe
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\obj\Debug\ResidentEvilWiki.pdb
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\CircularProgressBar.dll
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\WinFormAnimation.dll
+C:\Users\caner\source\repos\ResidentEvilWiki\ResidentEvilWiki\bin\Debug\CircularProgressBar.xml
