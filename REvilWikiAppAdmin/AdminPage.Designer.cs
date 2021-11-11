@@ -147,7 +147,7 @@ namespace REvilWikiAppAdmin
             this.groupBox2.Controls.Add(this.tbxPersonName);
             this.groupBox2.Location = new System.Drawing.Point(8, 6);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(271, 771);
+            this.groupBox2.Size = new System.Drawing.Size(271, 775);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Current Person List";
@@ -410,7 +410,7 @@ namespace REvilWikiAppAdmin
             this.groupBox1.Controls.Add(this.dgwPersonList);
             this.groupBox1.Location = new System.Drawing.Point(282, 6);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(907, 720);
+            this.groupBox1.Size = new System.Drawing.Size(907, 778);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Current Person List";
@@ -467,7 +467,7 @@ namespace REvilWikiAppAdmin
             this.dgwPersonList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgwPersonList.Location = new System.Drawing.Point(9, 85);
             this.dgwPersonList.Name = "dgwPersonList";
-            this.dgwPersonList.Size = new System.Drawing.Size(898, 629);
+            this.dgwPersonList.Size = new System.Drawing.Size(898, 664);
             this.dgwPersonList.TabIndex = 0;
             this.dgwPersonList.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwPersonList_CellClick);
             // 
@@ -485,7 +485,7 @@ namespace REvilWikiAppAdmin
             this.tPAddOccupation.Location = new System.Drawing.Point(4, 22);
             this.tPAddOccupation.Name = "tPAddOccupation";
             this.tPAddOccupation.Padding = new System.Windows.Forms.Padding(3);
-            this.tPAddOccupation.Size = new System.Drawing.Size(1195, 777);
+            this.tPAddOccupation.Size = new System.Drawing.Size(1195, 791);
             this.tPAddOccupation.TabIndex = 1;
             this.tPAddOccupation.Text = "Add Occupation";
             this.tPAddOccupation.UseVisualStyleBackColor = true;
